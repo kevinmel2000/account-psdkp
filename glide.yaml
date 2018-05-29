@@ -1,0 +1,6 @@
+package: github.com/ksp-api
+import:
+- package: github.com/labstack/echo
+- package: github.com/labstack/gommon
+- package: github.com/joho/godotenv
+- package: github.com/sirupsen/logrus
